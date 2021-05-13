@@ -10,9 +10,9 @@ public class VariableEx1 {
 		System.out.println("level 변수의 값은 " + level +" 입니다.");
 		//level변수의 값은 20입니다.
 		
-		int year = 1991;
-		int month = 2;
-		int day = 8;
+		int year = 1919;
+		int month = 12;
+		int day = 18;
 		
 		
 		System.out.print("저의 생년월일은" + year + "." + month + "." + day +"입니다.");
